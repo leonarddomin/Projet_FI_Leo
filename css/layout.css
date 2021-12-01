@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+html *{
+    font-family: 'Anton', sans-serif;
+}
+.jumbotron {
+    background-image: url(./../assets/img/Groupe\ 8.png); 
+    background-position: center;
+    
+} 
+body{
+    background-color: white; 
+    
+} 
+.accueil{
+    background-color: gray;
+}
+header h1 {
+    color: white;
+}
+h1{
+    color: white;
+    
+} 
+a h2:hover{
+    color: red;
+}
+h3{
+    color: white;
+   
+}
+
+.bg-blue{
+    background: linear-gradient(to right, purple, magenta);
+} 
+header a{
+    color: white;
+
+} 
+header a:hover{
+    color:red;
+
+} 
+footer a {
+    color: purple;
+}
+nav{
+    font-family: 'Anton', sans-serif;
+    
+} 
+footer p {
+    color: blue;
+}
